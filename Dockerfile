@@ -1,4 +1,4 @@
-FROM nginx:1.19-alpine
+FROM nginx:1.19.1-alpine
 
 LABEL maintainer="Stephen Yu <s.yu@less3.com>"
 
